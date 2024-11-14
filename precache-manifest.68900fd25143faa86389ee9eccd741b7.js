@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "252d7e2ca1d0624020fe",
+    "revision": "c8a8aebd435aab407f50",
     "url": "/css/app.90abaa45.css"
   },
   {
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/message:verify.744797de.css"
   },
   {
-    "revision": "36809e6657759a5e2980",
+    "revision": "0e9754fb2042beb1f820",
     "url": "/css/wallet.360c5b17.css"
   },
   {
@@ -72,12 +72,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/globe.3d19f3a7.png"
   },
   {
-    "revision": "c54780969657fbd64bbdc9b0764c9e88",
+    "revision": "571db0eed31fb83d19a98c62aba0c916",
     "url": "/index.html"
   },
   {
-    "revision": "252d7e2ca1d0624020fe",
-    "url": "/js/app.cf9307af.js"
+    "revision": "c8a8aebd435aab407f50",
+    "url": "/js/app.a09a993c.js"
   },
   {
     "revision": "db5877375cfe95cfb9f4",
@@ -108,8 +108,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/message:verify.6204ce23.js"
   },
   {
-    "revision": "36809e6657759a5e2980",
-    "url": "/js/wallet.3b25fd1a.js"
+    "revision": "0e9754fb2042beb1f820",
+    "url": "/js/wallet.17f99a0c.js"
   },
   {
     "revision": "db68e031749c721f114f",
