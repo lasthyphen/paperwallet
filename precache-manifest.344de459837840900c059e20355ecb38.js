@@ -1,7 +1,7 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c8a8aebd435aab407f50",
-    "url": "/css/app.90abaa45.css"
+    "revision": "1c2e93f6f7048dc44f5d",
+    "url": "/css/app.fe12ffa5.css"
   },
   {
     "revision": "db5877375cfe95cfb9f4",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/message:verify.744797de.css"
   },
   {
-    "revision": "0e9754fb2042beb1f820",
+    "revision": "c71ca1476b35f2f22b06",
     "url": "/css/wallet.360c5b17.css"
   },
   {
@@ -34,6 +34,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "14c1316631d0f79f0ef09eab60be3222",
     "url": "/favicon.png"
+  },
+  {
+    "revision": "acd487f0c7e627faf501b8a5ed11ffcd",
+    "url": "/fonts/Chainalysis-Bold.acd487f0.woff2"
+  },
+  {
+    "revision": "464b65ab6b3793988fb01719fcf282e5",
+    "url": "/fonts/Chainalysis-Regular.464b65ab.woff2"
   },
   {
     "revision": "6d0dca36f4b308f1b05ac34f8b18c8d7",
@@ -68,16 +76,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/background.4ac65b8e.png"
   },
   {
-    "revision": "3d19f3a7040f8445988b3627c2466341",
-    "url": "/img/globe.3d19f3a7.png"
+    "revision": "2686b772d36133feeb914288e69eedf8",
+    "url": "/img/connect.2686b772.png"
   },
   {
-    "revision": "571db0eed31fb83d19a98c62aba0c916",
+    "revision": "10621d86f8be51a6704e04c360c214e2",
+    "url": "/img/dijets-paper-wallet.10621d86.png"
+  },
+  {
+    "revision": "7164d767a9adb9e9ddc45c8dc4c6a4b0",
     "url": "/index.html"
   },
   {
-    "revision": "c8a8aebd435aab407f50",
-    "url": "/js/app.a09a993c.js"
+    "revision": "1c2e93f6f7048dc44f5d",
+    "url": "/js/app.03779392.js"
   },
   {
     "revision": "db5877375cfe95cfb9f4",
@@ -108,8 +120,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/message:verify.6204ce23.js"
   },
   {
-    "revision": "0e9754fb2042beb1f820",
-    "url": "/js/wallet.17f99a0c.js"
+    "revision": "c71ca1476b35f2f22b06",
+    "url": "/js/wallet.a1ba4a73.js"
   },
   {
     "revision": "db68e031749c721f114f",
